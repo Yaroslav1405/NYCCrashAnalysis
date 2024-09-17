@@ -30,11 +30,8 @@ Our dataframe contains these columns (does not include some feature-engineered c
 
 ### **Note:**
 
-This project includes two versions of data analysis:
+Unfortunately, due to technical issues, the plotly charts are not displaying in github, but:
 
-  - A version with regular static graphs to access straight from github;
-  - A version with interactive graphs that can be explored in more detail.
-    
 To view interactive graphs, you can use NBViewer (https://nbviewer.org/) by pasting the following link(link to notebook file from github): https://github.com/Yaroslav1405/NYCCrashAnalysis/blob/main/nyc_crash_analysis.ipynb
 
 # Main Stages 
