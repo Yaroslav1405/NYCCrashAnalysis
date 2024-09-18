@@ -30,9 +30,12 @@ Our dataframe contains these columns (does not include some feature-engineered c
 
 ### **Note:**
 
-Unfortunately, due to technical issues, the plotly charts are not displaying in github, but:
+Unfortunately, plotly charts cannot be displayed on github, however:
 
 To view interactive graphs, you can use NBViewer (https://nbviewer.org/) by pasting the following link(link to notebook file from github): https://github.com/Yaroslav1405/NYCCrashAnalysis/blob/main/nyc_crash_analysis.ipynb
+
+or using this link to google colab: https://colab.research.google.com/github/Yaroslav1405/NYCCrashAnalysis/blob/main/nyc_crash_analysis.ipynb
+
 
 # Main Stages 
 This project was utilized using Python frameworks such as Pandas, Numpy, and Plotly. The data was sourced from the **Motor Vehicle Collisions - Crashes** dataset, available on the U.S. government’s open data platform _data.gov_, which provides over 10 years of vehicle collision data across the city.
