@@ -34,7 +34,7 @@ Unfortunately, plotly charts cannot be displayed on github, however:
 
 To view interactive graphs, you can use NBViewer (https://nbviewer.org/) by pasting the following link(link to notebook file from github): https://github.com/Yaroslav1405/NYCCrashAnalysis/blob/main/nyc_crash_analysis.ipynb
 
-or using this link to google colab: https://colab.research.google.com/github/Yaroslav1405/NYCCrashAnalysis/blob/main/nyc_crash_analysis.ipynb
+or using this link to google colab: https://colab.research.google.com/drive/1xu6msq-seb9WhQmkUrUJ_Ru9M8B9U-Ba?usp=sharing
 
 
 # Main Stages 
